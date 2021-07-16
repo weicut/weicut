@@ -1,4 +1,4 @@
-<img align="right" height="200px" src="./icon.png">
+<img align="right" height="100px" src="./icon.png">
 
 ### Hi there 👋
 
