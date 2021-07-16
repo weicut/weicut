@@ -2,5 +2,5 @@
 
 ~~~~
 
-- 🔭 I’m fangjianwei
-- 🌱 I’m a Go and PHP developer.
+- 🔭 I’m fangjianwei.
+- 🌱 a Go and PHP developer.
