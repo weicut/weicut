@@ -4,4 +4,4 @@
 
 
 - 🔭 I’m fangjianwei.
-- 🌱 A Go and PHP developer.
+- 🌱 A Go developer.
